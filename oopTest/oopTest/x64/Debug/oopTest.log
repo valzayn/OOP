@@ -1,0 +1,4 @@
+﻿  oopTest.cpp
+D:\MVS\MVS_MAIN\VC\Tools\MSVC\14.37.32822\include\optional(12): warning STL4038: The contents of <optional> are available only with C++17 or later.
+D:\repos\oopTest\oopTest\oopTest.cpp(216,10): warning C4930: User buff(void): функция с прототипом не вызвана (предполагалось определение переменной?)
+  oopTest.vcxproj -> D:\repos\oopTest\x64\Debug\oopTest.exe

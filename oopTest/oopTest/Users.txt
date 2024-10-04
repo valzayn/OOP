@@ -1,0 +1,4 @@
+valet;valentin;zaynulin;sergeevich;
+vrummm;marit;bihnul;ratihin;
+brrr;vom;bol;kat;
+void;int;string;char;

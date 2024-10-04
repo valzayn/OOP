@@ -1,0 +1,3 @@
+﻿  oop_container_cd.cpp
+D:\repos\oop_container_cd\oop_container_cd\oop_container_cd.cpp(193): warning C4172: возвращение адреса локальной или временной переменной : s
+  oop_container_cd.vcxproj -> D:\repos\oop_container_cd\x64\Debug\oop_container_cd.exe
